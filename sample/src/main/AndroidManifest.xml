@@ -1,4 +1,4 @@
-<manifest package="com.e16din.screensmodel"
+<manifest package="com.e16din.sample"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
