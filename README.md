@@ -1,2 +1,2 @@
 # ScreensModel
-Model of mobile application.
+Mobile app Model.
